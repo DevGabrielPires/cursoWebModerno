@@ -13,3 +13,6 @@ function teste2(num) {
     console.log(num);
   }
 }
+
+teste2(6);
+teste2(8);
