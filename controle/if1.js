@@ -9,7 +9,7 @@ soBoaNoticia(6.7);
 
 function seForVerdadeEuFalo(valor) {
   if(valor) {
-    console.log(`É verdade.... ${valor}`);
+    console.log(`É veasasasasardade.... ${valor}`);
   }
 }
 
